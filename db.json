@@ -1,0 +1,46 @@
+{
+    "notifications": [
+        {
+            "id": 1,
+            "type": "RealEstate",
+            "title": "Real Estate Notification",
+            "message": "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo.",
+            "date": "2024-08-22 12:00:00"
+        },
+        {
+            "id": 2,
+            "type": "Pension",
+            "title": "Pension Notification",
+            "message": "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo.",
+            "date": "2024-08-22 12:00:00"
+        },
+        {
+            "id": 3,
+            "type": "BusinessOwnership",
+            "title": "Bussiness Ownership Notification",
+            "message": "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo.",
+            "date": "2024-08-22 12:00:00"
+        },
+        {
+            "id": 4,
+            "type": "WealthAndSavings",
+            "title": "Wealth and Savings Notification",
+            "message": "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo.",
+            "date": "2024-08-22 12:00:00"
+        },
+        {
+            "id": 5,
+            "type": "LoansAndLiabilities",
+            "title": "Loands and Liabilities Notification",
+            "message": "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo.",
+            "date": "2024-08-22 12:00:00"
+        },
+        {
+            "id": 6,
+            "type": "Investment",
+            "title": "Investment Notification",
+            "message": "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labo.",
+            "date": "2024-08-22 12:00:00"
+        }
+    ]
+}
